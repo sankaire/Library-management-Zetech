@@ -1,2 +1,3 @@
-# Structured-programming-Zetech
-This is where I put what I am learning in the Structured programming class
+#Libaray-management-Zetech
+
+This is a console programme written in C for managing a library.
